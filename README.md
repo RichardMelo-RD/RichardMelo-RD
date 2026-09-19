@@ -1,16 +1,87 @@
-## Hi there 👋
-
 <!--
-**RichardMelo-RD/RichardMelo-RD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  README de perfil do GitHub — Richard Melo
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  ANTES DE PUBLICAR, substitua em TODO o arquivo:
+  - [SEU-USUARIO-GITHUB] pelo seu usuário do GitHub (necessário para stats, streak e Pac-Man)
 -->
+
+<h1 align="center">Richard Melo</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Analista+de+Dados+em+forma%C3%A7%C3%A3o;Log%C3%ADstica+aplicada+a+dados;Excel+%C2%B7+Power+BI+%C2%B7+SQL+%C2%B7+Python" alt="Typing SVG" />
+</p>
+
+## Sobre mim
+
+Profissional de logística em transição de carreira para Análise de Dados. Uno experiência prática do setor operacional a habilidades em Excel, Power BI, SQL e Python, aplicando dados para resolver problemas reais do dia a dia logístico. Estudante de Análise e Desenvolvimento de Sistemas (UNIFECAF). Em busca de oportunidades remotas na área de dados.
+
+---
+
+## Tecnologias
+
+**Análise de Dados**
+
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg" alt="Excel" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" alt="Power BI" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
+</p>
+
+**Fundamentos (ADS)**
+
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" />
+</p>
+
+**Ferramentas**
+
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" />
+  <img height="45" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" />
+</p>
+
+---
+
+## Atividade
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/[SEU-USUARIO-GITHUB]/[SEU-USUARIO-GITHUB]/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+</p>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU-USUARIO-GITHUB]&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/richard-melo-16096b181" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/slv.richard" target="_blank">
+    <img height="40" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/5511969944983" target="_blank">
+    <img height="40" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:richardmelo0812@gmail.com" target="_blank">
+    <img height="40" src="https://cdn.simpleicons.org/gmail/EA4335" alt="E-mail" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Aberto a oportunidades remotas na área de dados.</i></p>
