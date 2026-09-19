@@ -17,9 +17,7 @@ Profissional de logística em transição de carreira para Análise de Dados. Un
 
 ---
 
-## Tecnologias
-
-**Análise de Dados**
+## 🚀 Tecnologias que utilizo e estudo
 
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg" alt="Excel" />
@@ -27,23 +25,14 @@ Profissional de logística em transição de carreira para Análise de Dados. Un
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
-</p>
-
-**Fundamentos (ADS)**
-
-<p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" />
-</p>
-
-**Ferramentas**
-
-<p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" />
   <img height="45" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" />
 </p>
+
 
 ---
 
