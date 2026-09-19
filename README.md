@@ -47,11 +47,11 @@ Profissional de logística em transição de carreira para Análise de Dados. Un
 
 ---
 
-## Atividade
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/[SEU-USUARIO-GITHUB]/[SEU-USUARIO-GITHUB]/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RichardMelo-RD/RichardMelo-RD/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RichardMelo-RD/RichardMelo-RD/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RichardMelo-RD/RichardMelo-RD/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 <div align="center">
 
