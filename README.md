@@ -8,10 +8,10 @@
 <h1 align="center">Richard Melo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Analista+de+Dados+em+forma%C3%A7%C3%A3o;Log%C3%ADstica+aplicada+a+dados;Excel+%C2%B7+Power+BI+%C2%B7+SQL+%C2%B7+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Analista+de+Dados+em+forma%C3%A7%C3%A3o;Log%C3%ADstica+aplicada+a+dados;Excel+%C2%B7+Power+BI+%C2%B7+SQL+%C2%B7+Python+%C2%B7+Java+%C2%B7+HTML+%C2%B7+CSS" alt="Typing SVG" />
 </p>
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 Profissional de logística em transição de carreira para Análise de Dados. Uno experiência prática do setor operacional a habilidades em Excel, Power BI, SQL e Python, aplicando dados para resolver problemas reais do dia a dia logístico. Estudante de Análise e Desenvolvimento de Sistemas (UNIFECAF). Em busca de oportunidades remotas na área de dados.
 
