@@ -53,13 +53,6 @@ Profissional de logística em transição de carreira para Análise de Dados. Un
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RichardMelo-RD/RichardMelo-RD/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU-USUARIO-GITHUB]&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## Contato
