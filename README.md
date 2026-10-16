@@ -1,13 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1E3A8A&height=180&section=header&text=Richard%20Melo&fontSize=42&fontColor=FFFFFF&desc=Data%20Analyst%20%7C%20Log%C3%ADstica%20%2B%20Dados&descAlignY=62&descSize=18&animation=fadeIn" alt="Richard Melo — Data Analyst" />
+<!-- Banner animado: o GitHub escolhe a versão clara ou escura conforme o tema de quem visita -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RichardMelo-RD/RichardMelo-RD/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RichardMelo-RD/RichardMelo-RD/main/assets/banner-light.svg">
+  <img width="100%" alt="Richard Melo — Analista de Dados: SELECT * FROM richard_melo;" src="https://raw.githubusercontent.com/RichardMelo-RD/RichardMelo-RD/main/assets/banner-light.svg">
+</picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Transformo+dados+log%C3%ADsticos+em+decis%C3%B5es;Do+ch%C3%A3o+do+armaz%C3%A9m+ao+dashboard;Excel+%C2%B7+Power+BI+%C2%B7+SQL+%C2%B7+Python" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/richard-melo-16096b181"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:richardmelo0812@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=RichardMelo-RD&color=0ea5e9&style=for-the-badge&label=Visitas" alt="Visitas ao perfil" />
+  <a href="https://www.linkedin.com/in/richard-melo-16096b181"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&labelColor=0B1220&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMzhCREY4Ij48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>
+  <a href="mailto:richardmelo0812@gmail.com"><img src="https://img.shields.io/badge/E--mail-0B1220?style=for-the-badge&labelColor=0B1220&logo=gmail&logoColor=F87171" alt="E-mail" /></a>
+  <a href="https://github.com/RichardMelo-RD/analise-logistica-olist"><img src="https://img.shields.io/badge/Projeto_em_destaque-0B1220?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=A78BFA" alt="Projeto em destaque" /></a>
+  <img src="https://komarev.com/ghpvc/?username=RichardMelo-RD&color=0B1220&style=for-the-badge&label=Visitas&labelColor=0B1220" alt="Visitas ao perfil" />
 </p>
 
 ## 👨‍💻 Sobre mim
@@ -84,23 +86,13 @@ Adicione aqui seus certificados quando tiver, por exemplo:
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/richard-melo-16096b181" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/slv.richard" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/5511969944983" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:richardmelo0812@gmail.com" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/gmail/EA4335" alt="E-mail" />
-  </a>
+  <a href="https://www.linkedin.com/in/richard-melo-16096b181"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&labelColor=0B1220&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMzhCREY4Ij48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/slv.richard"><img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&labelColor=0B1220&logo=instagram&logoColor=F472B6" alt="Instagram" /></a>
+  &nbsp;
+  <a href="https://wa.me/5511969944983"><img src="https://img.shields.io/badge/WhatsApp-0B1220?style=for-the-badge&labelColor=0B1220&logo=whatsapp&logoColor=10B981" alt="WhatsApp" /></a>
+  &nbsp;
+  <a href="mailto:richardmelo0812@gmail.com"><img src="https://img.shields.io/badge/E--mail-0B1220?style=for-the-badge&labelColor=0B1220&logo=gmail&logoColor=F87171" alt="E-mail" /></a>
 </p>
 
 <p align="center"><i>Aberto a oportunidades remotas na área de dados.</i></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1E3A8A&height=100&section=footer" alt="" />
