@@ -20,7 +20,7 @@ Profissional de **logística em transição para Análise de Dados**. Conheço a
 
 ## 🔭 Atualmente
 
-- 📊 Construindo um **dashboard de performance logística** no Power BI (OTIF, lead time, custo por entrega)
+- 📊 Acabei de publicar meu primeiro projeto: **[análise de performance logística](https://github.com/RichardMelo-RD/analise-logistica-olist)** com SQL, Python e dashboard no Power BI
 - 🗄️ Praticando **SQL** com análises de estoque (curva ABC, giro e ruptura)
 - 🐍 Estudando **Python para análise de dados** (pandas, visualização e previsão de demanda)
 
@@ -28,7 +28,7 @@ Profissional de **logística em transição para Análise de Dados**. Conheço a
 
 | Projeto | Ferramentas | Status |
 |---|---|---|
-| [📦 Análise de Performance Logística](https://github.com/RichardMelo-RD/analise-logistica-olist): 96 mil pedidos reais; atraso derruba a nota de 4,3 para 1,7 | SQL · Python · Power BI | ✅ Análise concluída · 🔨 Dashboard em construção |
+| [📦 Análise de Performance Logística](https://github.com/RichardMelo-RD/analise-logistica-olist): 96 mil pedidos reais; atraso derruba a nota de 4,3 para 1,7 | SQL · Python · Power BI | ✅ Concluído |
 | Análise de Estoque com SQL | SQL Server · MySQL | 📋 Planejado |
 | Previsão de Demanda | Python · pandas | 📋 Planejado |
 
