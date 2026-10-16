@@ -26,11 +26,9 @@ Profissional de **logística em transição para Análise de Dados**. Conheço a
 
 ## 📊 Projetos em destaque
 
-> 🚧 Projetos em construção. Em breve aqui, com dados reais do setor logístico.
-
 | Projeto | Ferramentas | Status |
 |---|---|---|
-| Dashboard de Performance Logística | Power BI · Excel | 🔨 Em desenvolvimento |
+| [📦 Análise de Performance Logística](https://github.com/RichardMelo-RD/analise-logistica-olist): 96 mil pedidos reais; atraso derruba a nota de 4,3 para 1,7 | SQL · Python · Power BI | ✅ Análise concluída · 🔨 Dashboard em construção |
 | Análise de Estoque com SQL | SQL Server · MySQL | 📋 Planejado |
 | Previsão de Demanda | Python · pandas | 📋 Planejado |
 
